@@ -5,8 +5,6 @@
 ## Descripción
 Este proyecto esta preparado para el curso de Python impartido por IBM en colaboración con BeJob. Se trata del trabajo final del curso, en el cual debiamos crear un pequeño proyecto en el que poder administrar un to do list. Entre las características, debiamos poder gestionar tareas, crearlas, eliminarlas y marcarlas como completadas. Además era necesario implementar un manejo de excepciones para hacer más guiada la experiencia del usuario.
 
-[img](../project_python/captura_todolist.png)
-
 ## Características
 Registro de tareas.
 Marcado de tareas como "Completadas".
